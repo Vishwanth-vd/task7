@@ -1,0 +1,12 @@
+BASIC SALES SUMMARY (from SQLite via Python)
+Generated on: 2025-08-17 08:01:45
+
+   product  total_qty  revenue
+    Laptop          5 325500.0
+   Monitor          5  59000.0
+Headphones         11  24200.0
+  Keyboard         10  15600.0
+     Mouse         22  10970.0
+
+TOTAL QUANTITY SOLD: 53
+TOTAL REVENUE: 435270.00
